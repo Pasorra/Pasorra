@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Ben ISUBU Teknoloji Fakültesi Bilgisayar Mühendisliği 1. Sınıf öğrencisiyim. Güncel teknoloji ve programlama dillerini takip etmek ve projeler oluşturma için bu sayfayı oluşturdum.
 <!--
 **Pasorra/Pasorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
